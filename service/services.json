@@ -1,0 +1,9 @@
+{
+  "id": "tld.my.customhome.service",
+  "description": "Aura Home boot and Home-key launcher",
+  "services": [
+    {
+      "name": "tld.my.customhome.service"
+    }
+  ]
+}
