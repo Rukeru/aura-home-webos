@@ -1,0 +1,62 @@
+{
+  "id": "space",
+  "name": "Space & Night Skies",
+  "wallpapers": [
+    {
+      "name": "Nebula",
+      "file": "nasa--hI5dX2ObAs-unsplash.jpg",
+      "width": 3840,
+      "height": 1846,
+      "originalWidth": 5200,
+      "originalHeight": 2500
+    },
+    {
+      "name": "Milky Way",
+      "file": "pexels-miriamespacio-110854.jpg",
+      "width": 2956,
+      "height": 2160,
+      "originalWidth": 4992,
+      "originalHeight": 3648
+    },
+    {
+      "name": "Alpine Night",
+      "file": "pexels-selcuk-teke-393955-8949538.jpg",
+      "width": 2534,
+      "height": 1786,
+      "originalWidth": 2534,
+      "originalHeight": 1786
+    },
+    {
+      "name": "Starlit Tree",
+      "file": "pexels-jplenio-3262249.jpg",
+      "width": 3840,
+      "height": 2160,
+      "originalWidth": 5840,
+      "originalHeight": 3285
+    },
+    {
+      "name": "Fuji After Dark",
+      "file": "fuji-mountain-with-milky-way-night.jpg",
+      "width": 3839,
+      "height": 2160,
+      "originalWidth": 4928,
+      "originalHeight": 2773
+    },
+    {
+      "name": "Celestial Mountains",
+      "file": "galaxy-nature-aesthetic-background-starry-sky-mountain-remixed-media.jpg",
+      "width": 3240,
+      "height": 2160,
+      "originalWidth": 5000,
+      "originalHeight": 3333
+    },
+    {
+      "name": "Lunar Craters",
+      "file": "lunar-craters-moon-3840x2160-27328.jpg",
+      "width": 3840,
+      "height": 2160,
+      "originalWidth": 3840,
+      "originalHeight": 2160
+    }
+  ]
+}

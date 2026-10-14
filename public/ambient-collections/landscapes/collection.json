@@ -1,0 +1,54 @@
+{
+  "id": "landscapes",
+  "name": "Mountains & Landscapes",
+  "wallpapers": [
+    {
+      "name": "Mountain Reflections",
+      "file": "pexels-francesco-ungaro-1525041.jpg",
+      "width": 3240,
+      "height": 2160,
+      "originalWidth": 6000,
+      "originalHeight": 4000
+    },
+    {
+      "name": "Golden Peaks",
+      "file": "pexels-marek-piwnicki-3907296-15523133.jpg",
+      "width": 3840,
+      "height": 1549,
+      "originalWidth": 14602,
+      "originalHeight": 5891
+    },
+    {
+      "name": "Sierra Nevada",
+      "file": "sierra-nevada-3840x2160-14543.jpg",
+      "width": 3840,
+      "height": 2160,
+      "originalWidth": 3840,
+      "originalHeight": 2160
+    },
+    {
+      "name": "Thousand Island Lake",
+      "file": "banner-peak-thousand-island-lake-ansel-adams-wilderness-3840x2160-8147.jpg",
+      "width": 3840,
+      "height": 2160,
+      "originalWidth": 3840,
+      "originalHeight": 2160
+    },
+    {
+      "name": "Desert Rocks",
+      "file": "desert-rocks-3840x2160-27362.jpg",
+      "width": 3840,
+      "height": 2160,
+      "originalWidth": 3840,
+      "originalHeight": 2160
+    },
+    {
+      "name": "Lake Helen",
+      "file": "lake-helen-lassen-national-forest-california-mount-lassen-3840x2160-4073.jpg",
+      "width": 3840,
+      "height": 2160,
+      "originalWidth": 3840,
+      "originalHeight": 2160
+    }
+  ]
+}

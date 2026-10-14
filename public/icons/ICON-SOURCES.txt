@@ -1,0 +1,16 @@
+Brand artwork is displayed as supplied, preserving its colors and proportions.
+
+YouTube: red digital icon from the official YouTube brand resource download.
+https://brand.youtube/youtube-icon
+https://www.gstatic.com/marketing-cms/78/29/3e68a1414bb28d0b7e47b44c3c91/youtube-icon.zip
+
+Plex: official site's 256px app icon.
+https://watch.plex.tv/icons/icon-256x256.png
+
+Netflix, Disney+, Prime Video, Spotify, Homebrew and other bundled app artwork:
+original app icons supplied by zzeppieri/webos-custom-home, whose source states
+that these assets were copied from installed webOS apps.
+https://github.com/zzeppieri/webos-custom-home
+
+The earlier YouTube asset in upstream was a VLC cone; Aura replaces it with the
+YouTube brand asset above. Trademark rights remain with their respective owners.

@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.ipk
+*.zip
+*.log
+.env
+.env.local
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

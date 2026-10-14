@@ -1,0 +1,46 @@
+{
+  "id": "flowers",
+  "name": "Flowers",
+  "wallpapers": [
+    {
+      "name": "Pink Moss",
+      "file": "floral-pink-moss-3840x2160-25832.jpg",
+      "width": 3840,
+      "height": 2160,
+      "originalWidth": 3840,
+      "originalHeight": 2160
+    },
+    {
+      "name": "Purple Lotus",
+      "file": "lotus-flower-purple-3840x2160-25008.jpg",
+      "width": 3840,
+      "height": 2160,
+      "originalWidth": 3840,
+      "originalHeight": 2160
+    },
+    {
+      "name": "Red Rose",
+      "file": "red-rose-closeup-5k-3840x2160-21512.jpg",
+      "width": 3840,
+      "height": 2160,
+      "originalWidth": 3840,
+      "originalHeight": 2160
+    },
+    {
+      "name": "Delphinium",
+      "file": "delphinium-flowers-3840x2160-27378.jpg",
+      "width": 3840,
+      "height": 2160,
+      "originalWidth": 3840,
+      "originalHeight": 2160
+    },
+    {
+      "name": "Pink Lotus",
+      "file": "os-x-lion-lotus-3840x2160-24063.jpg",
+      "width": 3840,
+      "height": 2160,
+      "originalWidth": 3840,
+      "originalHeight": 2160
+    }
+  ]
+}
